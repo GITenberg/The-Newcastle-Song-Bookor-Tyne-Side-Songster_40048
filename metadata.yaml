@@ -1,0 +1,28 @@
+_repo: The-Newcastle-Song-Bookor-Tyne-Side-Songster_40048
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2012-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Dialects -- England -- Newcastle upon Tyne'
+- !lcc 'PR'
+- !lcsh 'Songs, English -- England -- Newcastle upon Tyne'
+title: "The Newcastle Song Book; or, Tyne-Side Songster\r\nBeing a Collection of Comic\
+  \ and Satirical Songs, Descriptive of Eccentric Characters, and the Manners and\
+  \ Customs of a Portion of the Labouring Population of Newcastle and the Neighbourhood"
+url: http://www.gutenberg.org/ebooks/40048
